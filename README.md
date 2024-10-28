@@ -31,7 +31,6 @@ This collection is planed to be executed both by asking industry experts for bes
 
 
 
-
 # Checklist
 
 ## 1. Business and Data Understanding
